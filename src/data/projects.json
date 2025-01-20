@@ -12,15 +12,7 @@
     "imageSrc": "project2.png",
     "description": "This is my portfolio",
     "skills": ["React", "HTML", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://portfolio-rxca.onrender.com/",
+    "source": "https://github.com/Akhilesh-314/portfolio1"
   }
 ]
