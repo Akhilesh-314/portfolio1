@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "classes": "10th",
+      "board": "Maharashtra Board",
+      "college": "Shriram Vidya Mandir High School",
+      "percent": "90%"
+    },
+    {
+      "id": 2,
+      "classes": "12th",
+      "board": "Maharashtra Board",
+      "college": "S.S. and L.S. Patkar College",
+      "percent": "65.54%"
+    },
+    {
+      "id": 3,
+      "classes": "B.Sc. Computer Science",
+      "board": "University of Mumbai",
+      "college": "Nirmala Memorial Foundation College",
+      "percent": "8.18 CGPA"
+    }
+  ]
+  

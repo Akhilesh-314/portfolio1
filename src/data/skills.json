@@ -1,0 +1,43 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "js.png"
+  },
+ 
+ 
+  {
+    "title": "React",
+    "imageSrc": "react.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "tl.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "mysql.png"
+  },
+ 
+ 
+  {
+    "title": "WordPress",
+    "imageSrc": "wp.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "python.png"
+  }
+ 
+]
