@@ -1,7 +1,7 @@
 @import "../vars.css";
 
 .container {
-  margin-top: 76px;
+  margin-top: 0px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
@@ -23,4 +23,12 @@
   justify-content: center;
   gap: 15px;
   width: 100%;
+}
+
+
+@media screen and (max-width: 830px) {
+  .container {
+
+    margin-top: 0;
+  }
 }
