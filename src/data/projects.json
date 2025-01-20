@@ -2,7 +2,7 @@
   {
     "title": "Stalion Restaurant",
     "imageSrc": "project1.png",
-    "description": "This is a restaurant food oredering website ",
+    "description": "This is a restaurant food ordering website ",
     "skills": ["React", "Javascript", "HTML","Redux","Tailwind CSS"],
     "demo": "https://stalian-0fst.onrender.com/",
     "source": "https://github.com/Akhilesh-314/Stalian"

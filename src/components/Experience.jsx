@@ -48,7 +48,7 @@ export const Experience = () => {
             <h2 className={styles.title}>certification</h2>
 
             <div className={styles.Item}>
-              <h3>Aptech Learning,Andheri,Mumbai</h3>
+              <h3>Aptech Learning,Andheri</h3>
               <ul className={styles.course} >
                 <li  >Python</li>
                 <li >MySQL</li>

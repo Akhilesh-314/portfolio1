@@ -83,6 +83,7 @@
 }
 
  h3 {
+  word-wrap: break-word;;
   font-size: 30px;
   font-weight: 500;
 }
