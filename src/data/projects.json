@@ -10,8 +10,8 @@
   {
     "title": "Portfolio",
     "imageSrc": "project2.png",
-    "description": "This is my portfolio",
-    "skills": ["React", "HTML", "CSS"],
+    "description": "This is my portfolio which include my resume and all other details",
+    "skills": ["React", "HTML", "CSS","Javascript"],
     "demo": "https://portfolio-rxca.onrender.com/",
     "source": "https://github.com/Akhilesh-314/portfolio1"
   }
